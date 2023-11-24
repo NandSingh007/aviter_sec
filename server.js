@@ -15,10 +15,10 @@ var betamount =0;
 var clients = [];
 
 const connection = mysql.createConnection({
-  host: '95.216.36.254',
-  user: 'goutamde_12345678',
-  password: 'goutamde_12345678',
-  database: 'goutamde_12345678'
+  host: '62.72.28.63',
+  user: 'u366627993_Aviator',
+  password: 'u366627993_Aviator',
+  database: 'Aviator123@123'
 });
 
 //Function to set crash point
